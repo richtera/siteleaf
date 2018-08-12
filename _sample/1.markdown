@@ -4,3 +4,4 @@ date: 2018-08-12 17:14:00 Z
 ---
 
 Sample 1
+[github-icon.svg](/uploads/github-icon.svg)
